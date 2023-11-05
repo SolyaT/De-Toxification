@@ -19,3 +19,8 @@ To make and prepare test and train datasets use this code:
 ```
 python ./src/data/make_dataset.py
 ```
+
+## Download initial dataset:
+https://github.com/skoltech-nlp/detox/releases/download/emnlp2021/filtered_paranmt.zip
+
+P.S. csv files were too big...
